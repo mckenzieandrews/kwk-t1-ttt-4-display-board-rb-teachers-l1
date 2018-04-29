@@ -3,8 +3,8 @@
 def display_board(board=["X", "X", "X", " ", " ", " ", " ", " ", " "])
 
   puts(" X | X | X")
-  puts(-----------)
-  puts(   | X |   )
-  puts(-----------)
-  puts(   |   |   )
+  puts("-----------")
+  puts("   | X |   ")
+  puts("-----------")
+  puts("   |   |   ")
 end
